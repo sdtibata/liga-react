@@ -1,0 +1,202 @@
+[
+    {
+        "position": 1,
+        "appearances": 10,
+        "name": "Andrey Estupiñán",
+        "value": 9,
+        "url": null,
+        "contestantName": "Deportivo Pasto",
+        "statName": "Goles",
+        "optaId": 2287
+    },
+    {
+        "position": 1,
+        "appearances": 13,
+        "name": "Dayro Moreno",
+        "value": 9,
+        "url": null,
+        "contestantName": "Once Caldas",
+        "statName": "Goles",
+        "optaId": 2286
+    },
+    {
+        "position": 3,
+        "appearances": 11,
+        "name": "Alfredo Morelos",
+        "value": 8,
+        "url": null,
+        "contestantName": "Atlético Nacional",
+        "statName": "Goles",
+        "optaId": 2302
+    },
+    {
+        "position": 4,
+        "appearances": 11,
+        "name": "Yeison Guzmán",
+        "value": 7,
+        "url": null,
+        "contestantName": "América de Cali",
+        "statName": "Goles",
+        "optaId": 2288
+    },
+    {
+        "position": 4,
+        "appearances": 11,
+        "name": "Jorge Rivaldo",
+        "value": 7,
+        "url": null,
+        "contestantName": "Águilas Doradas",
+        "statName": "Goles",
+        "optaId": 7081
+    },
+    {
+        "position": 6,
+        "appearances": 11,
+        "name": "Rodrigo Contreras",
+        "value": 6,
+        "url": null,
+        "contestantName": "Millonarios",
+        "statName": "Goles",
+        "optaId": 2680
+    },
+    {
+        "position": 6,
+        "appearances": 11,
+        "name": "Luciano Pons",
+        "value": 6,
+        "url": null,
+        "contestantName": "Atlético Bucaramanga",
+        "statName": "Goles",
+        "optaId": 2669
+    },
+    {
+        "position": 6,
+        "appearances": 12,
+        "name": "Andrés Arroyo",
+        "value": 6,
+        "url": null,
+        "contestantName": "Fortaleza",
+        "statName": "Goles",
+        "optaId": 7682
+    },
+    {
+        "position": 6,
+        "appearances": 13,
+        "name": "Jefry Zapata",
+        "value": 6,
+        "url": null,
+        "contestantName": "Once Caldas",
+        "statName": "Goles",
+        "optaId": 2286
+    },
+    {
+        "position": 10,
+        "appearances": 10,
+        "name": "Leonardo Castro",
+        "value": 5,
+        "url": null,
+        "contestantName": "Millonarios",
+        "statName": "Goles",
+        "optaId": 2680
+    },
+    {
+        "position": 10,
+        "appearances": 11,
+        "name": "Luifer Hernández",
+        "value": 5,
+        "url": null,
+        "contestantName": "Cúcuta Deportivo",
+        "statName": "Goles",
+        "optaId": 2672
+    },
+    {
+        "position": 10,
+        "appearances": 12,
+        "name": "Luis Muriel",
+        "value": 5,
+        "url": null,
+        "contestantName": "Junior",
+        "statName": "Goles",
+        "optaId": 2678
+    },
+    {
+        "position": 10,
+        "appearances": 12,
+        "name": "Dereck Moncada",
+        "value": 5,
+        "url": null,
+        "contestantName": "Inter Bogotá",
+        "statName": "Goles",
+        "optaId": 2679
+    },
+    {
+        "position": 14,
+        "appearances": 9,
+        "name": "Juan Torres",
+        "value": 4,
+        "url": null,
+        "contestantName": "Deportes Tolima",
+        "statName": "Goles",
+        "optaId": 2674
+    },
+    {
+        "position": 14,
+        "appearances": 9,
+        "name": "Andrés Rentería",
+        "value": 4,
+        "url": null,
+        "contestantName": "Jaguares de Córdoba",
+        "statName": "Goles",
+        "optaId": 7683
+    },
+    {
+        "position": 14,
+        "appearances": 10,
+        "name": "Santiago Córdoba",
+        "value": 4,
+        "url": null,
+        "contestantName": "Deportivo Pasto",
+        "statName": "Goles",
+        "optaId": 2287
+    },
+    {
+        "position": 14,
+        "appearances": 10,
+        "name": "Steven Rodríguez",
+        "value": 4,
+        "url": null,
+        "contestantName": "Deportivo Cali",
+        "statName": "Goles",
+        "optaId": 2475
+    },
+    {
+        "position": 14,
+        "appearances": 11,
+        "name": "Cristian Barrios",
+        "value": 4,
+        "url": null,
+        "contestantName": "Junior",
+        "statName": "Goles",
+        "optaId": 2678
+    },
+    {
+        "position": 14,
+        "appearances": 11,
+        "name": "Teófilo Gutiérrez",
+        "value": 4,
+        "url": null,
+        "contestantName": "Junior",
+        "statName": "Goles",
+        "optaId": 2678
+    },
+    {
+        "position": 14,
+        "appearances": 12,
+        "name": "Juan Rengifo",
+        "value": 4,
+        "url": null,
+        "contestantName": "Atlético Nacional",
+        "statName": "Goles",
+        "optaId": 2302
+    }
+]

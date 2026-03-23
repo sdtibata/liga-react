@@ -1,0 +1,202 @@
+[
+    {
+        "position": 1,
+        "appearances": 10,
+        "name": "Carlos Esparragoza",
+        "value": 6,
+        "url": null,
+        "contestantName": "Alianza",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 7585
+    },
+    {
+        "position": 2,
+        "appearances": 8,
+        "name": "Carlos Ordóñez",
+        "value": 5,
+        "url": null,
+        "contestantName": "Jaguares de Córdoba",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 7683
+    },
+    {
+        "position": 2,
+        "appearances": 10,
+        "name": "Rafael Carrascal",
+        "value": 5,
+        "url": null,
+        "contestantName": "América de Cali",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2288
+    },
+    {
+        "position": 2,
+        "appearances": 10,
+        "name": "Jhair Castillo",
+        "value": 5,
+        "url": null,
+        "contestantName": "Alianza",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 7585
+    },
+    {
+        "position": 2,
+        "appearances": 10,
+        "name": "Ever Meza",
+        "value": 5,
+        "url": null,
+        "contestantName": "Alianza",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 7585
+    },
+    {
+        "position": 2,
+        "appearances": 11,
+        "name": "Rodrigo Ureña",
+        "value": 5,
+        "url": null,
+        "contestantName": "Millonarios",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2680
+    },
+    {
+        "position": 2,
+        "appearances": 12,
+        "name": "Mateo García",
+        "value": 5,
+        "url": null,
+        "contestantName": "Millonarios",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2680
+    },
+    {
+        "position": 2,
+        "appearances": 12,
+        "name": "Johan Hinestroza",
+        "value": 5,
+        "url": null,
+        "contestantName": "Jaguares de Córdoba",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 7683
+    },
+    {
+        "position": 2,
+        "appearances": 12,
+        "name": "Jhon Vásquez",
+        "value": 5,
+        "url": null,
+        "contestantName": "Llaneros",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 7684
+    },
+    {
+        "position": 2,
+        "appearances": 12,
+        "name": "Carlos Vivas",
+        "value": 5,
+        "url": null,
+        "contestantName": "Inter Bogotá",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2679
+    },
+    {
+        "position": 11,
+        "appearances": 6,
+        "name": "Robert Mejía",
+        "value": 4,
+        "url": null,
+        "contestantName": "Once Caldas",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2286
+    },
+    {
+        "position": 11,
+        "appearances": 7,
+        "name": "Daniel Mantilla",
+        "value": 4,
+        "url": null,
+        "contestantName": "Llaneros",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 7684
+    },
+    {
+        "position": 11,
+        "appearances": 7,
+        "name": "Mateo Rodas",
+        "value": 4,
+        "url": null,
+        "contestantName": "Inter Bogotá",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2679
+    },
+    {
+        "position": 11,
+        "appearances": 8,
+        "name": "Jaime Alvarado",
+        "value": 4,
+        "url": null,
+        "contestantName": "Once Caldas",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2286
+    },
+    {
+        "position": 11,
+        "appearances": 8,
+        "name": "Diego Chávez",
+        "value": 4,
+        "url": null,
+        "contestantName": "Deportivo Pasto",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2287
+    },
+    {
+        "position": 11,
+        "appearances": 9,
+        "name": "Josen Escobar",
+        "value": 4,
+        "url": null,
+        "contestantName": "América de Cali",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2288
+    },
+    {
+        "position": 11,
+        "appearances": 9,
+        "name": "Emanuel Reynoso",
+        "value": 4,
+        "url": null,
+        "contestantName": "Deportivo Cali",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2475
+    },
+    {
+        "position": 11,
+        "appearances": 10,
+        "name": "Marco Pérez",
+        "value": 4,
+        "url": null,
+        "contestantName": "Deportivo Pereira",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2675
+    },
+    {
+        "position": 11,
+        "appearances": 10,
+        "name": "Edwin Cardona",
+        "value": 4,
+        "url": null,
+        "contestantName": "Atlético Nacional",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2302
+    },
+    {
+        "position": 11,
+        "appearances": 10,
+        "name": "Milton Casco",
+        "value": 4,
+        "url": null,
+        "contestantName": "Atlético Nacional",
+        "statName": "Tarjetas Amarillas",
+        "optaId": 2302
+    }
+]

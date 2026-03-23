@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "Independiente Medellín",
+    "info": {
+      "city": "Medellín",
+      "founded": "14 de noviembre de 1913",
+      "stadium": "Atanasio Girardot",
+      "president": "Daniel Ossa Giraldo",
+      "last_title": "Copa Dimayor 2020"
+    },
+    "ranking": {
+      "position": "14°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/DIM.Oficial/?locale=es_LA",
+      "instagram": "https://www.instagram.com/dimoficialcom/?hl=es",
+      "x": "https://x.com/DIM_Oficial?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    "links": {
+      "store": "https://tiendadim.com/",
+      "tickets": "https://dimoficial.com/boleteria/"
+    }
+  }
+}

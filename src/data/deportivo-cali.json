@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "Deportivo Cali",
+    "info": {
+      "city": "Cali",
+      "founded": "23 de noviembre de 1912",
+      "stadium": "Deportivo Cali",
+      "president": "Rafael Tinoco",
+      "last_title": "Liga BetPlay 2021-II"
+    },
+    "ranking": {
+      "position": "10°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/DeportivoCaliOficial?locale=es_LA",
+      "instagram": "https://www.instagram.com/deportivocalioficial/",
+      "x": "https://x.com/AsoDeporCali"
+    },
+    "links": {
+      "store": "https://www.tiendadeportivocali.com.co/",
+      "tickets": "https://warena.co/#/"
+    }
+  }
+}

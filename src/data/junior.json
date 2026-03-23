@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "Junior de Barranquilla",
+    "info": {
+      "city": "Barranquilla",
+      "founded": "7 de agosto de 1924",
+      "stadium": "Estadio Metropolitano Roberto Meléndez",
+      "president": "Antonio Char",
+      "last_title": "Liga BetPlay 2025-II"
+    },
+    "ranking": {
+      "position": "9°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/JuniorClubSA?locale=es_LA",
+      "instagram": "https://www.instagram.com/juniorclubsa/",
+      "x": "https://x.com/JuniorClubSA"
+    },
+    "links": {
+      "store": "https://www.juniorfc.co/tiendas",
+      "tickets": "https://www.tuboleta.com/es"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "Deportes Tolima",
+    "info": {
+      "city": "Ibagué",
+      "founded": "18 de diciembre de 1954",
+      "stadium": "Manuel Murillo Toro",
+      "president": "César Camargo",
+      "last_title": "Superliga 2022"
+    },
+    "ranking": {
+      "position": "8°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://es-la.facebook.com/ClubDeportesTolimaSA/",
+      "instagram": "https://www.instagram.com/cdtolima/",
+      "x": "https://x.com/cdtolima"
+    },
+    "links": {
+      "store": "https://tiendavyo.com/",
+      "tickets": "https://www.tuboleta.com/es/taxonomy/term/14148/deportes-tolima"
+    }
+  }
+}

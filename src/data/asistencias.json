@@ -1,0 +1,202 @@
+[
+    {
+        "position": 1,
+        "appearances": 12,
+        "name": "Fabricio Sanguinetti",
+        "value": 5,
+        "url": null,
+        "contestantName": "Inter Bogotá",
+        "statName": "Asistencias",
+        "optaId": 2679
+    },
+    {
+        "position": 1,
+        "appearances": 12,
+        "name": "Léider Berdugo",
+        "value": 5,
+        "url": null,
+        "contestantName": "Cúcuta Deportivo",
+        "statName": "Asistencias",
+        "optaId": 2672
+    },
+    {
+        "position": 1,
+        "appearances": 12,
+        "name": "Juan Rengifo",
+        "value": 5,
+        "url": null,
+        "contestantName": "Atlético Nacional",
+        "statName": "Asistencias",
+        "optaId": 2302
+    },
+    {
+        "position": 4,
+        "appearances": 11,
+        "name": "Bryan Urueña",
+        "value": 4,
+        "url": null,
+        "contestantName": "Águilas Doradas",
+        "statName": "Asistencias",
+        "optaId": 7081
+    },
+    {
+        "position": 4,
+        "appearances": 11,
+        "name": "Sebastián Valencia",
+        "value": 4,
+        "url": null,
+        "contestantName": "Millonarios",
+        "statName": "Asistencias",
+        "optaId": 2680
+    },
+    {
+        "position": 6,
+        "appearances": 10,
+        "name": "Beckham Castro",
+        "value": 3,
+        "url": null,
+        "contestantName": "Millonarios",
+        "statName": "Asistencias",
+        "optaId": 2680
+    },
+    {
+        "position": 6,
+        "appearances": 10,
+        "name": "Andrey Estupiñán",
+        "value": 3,
+        "url": null,
+        "contestantName": "Deportivo Pasto",
+        "statName": "Asistencias",
+        "optaId": 2287
+    },
+    {
+        "position": 6,
+        "appearances": 10,
+        "name": "Rafael Carrascal",
+        "value": 3,
+        "url": null,
+        "contestantName": "América de Cali",
+        "statName": "Asistencias",
+        "optaId": 2288
+    },
+    {
+        "position": 6,
+        "appearances": 11,
+        "name": "Rodrigo Ureña",
+        "value": 3,
+        "url": null,
+        "contestantName": "Millonarios",
+        "statName": "Asistencias",
+        "optaId": 2680
+    },
+    {
+        "position": 6,
+        "appearances": 12,
+        "name": "Eduar Arízalas",
+        "value": 3,
+        "url": null,
+        "contestantName": "Cúcuta Deportivo",
+        "statName": "Asistencias",
+        "optaId": 2672
+    },
+    {
+        "position": 6,
+        "appearances": 12,
+        "name": "Andrés Sarmiento",
+        "value": 3,
+        "url": null,
+        "contestantName": "Atlético Nacional",
+        "statName": "Asistencias",
+        "optaId": 2302
+    },
+    {
+        "position": 6,
+        "appearances": 13,
+        "name": "Kevin Parra",
+        "value": 3,
+        "url": null,
+        "contestantName": "Inter Bogotá",
+        "statName": "Asistencias",
+        "optaId": 2679
+    },
+    {
+        "position": 6,
+        "appearances": 13,
+        "name": "Johan Martínez",
+        "value": 3,
+        "url": null,
+        "contestantName": "Deportivo Cali",
+        "statName": "Asistencias",
+        "optaId": 2475
+    },
+    {
+        "position": 14,
+        "appearances": 6,
+        "name": "Néider Ospina",
+        "value": 2,
+        "url": null,
+        "contestantName": "Llaneros",
+        "statName": "Asistencias",
+        "optaId": 7684
+    },
+    {
+        "position": 14,
+        "appearances": 7,
+        "name": "Luis Sandoval",
+        "value": 2,
+        "url": null,
+        "contestantName": "Deportes Tolima",
+        "statName": "Asistencias",
+        "optaId": 2674
+    },
+    {
+        "position": 14,
+        "appearances": 7,
+        "name": "Walmer Pacheco",
+        "value": 2,
+        "url": null,
+        "contestantName": "Deportivo Pereira",
+        "statName": "Asistencias",
+        "optaId": 2675
+    },
+    {
+        "position": 14,
+        "appearances": 8,
+        "name": "Aldair Gutiérrez",
+        "value": 2,
+        "url": null,
+        "contestantName": "Atlético Bucaramanga",
+        "statName": "Asistencias",
+        "optaId": 2669
+    },
+    {
+        "position": 14,
+        "appearances": 8,
+        "name": "Fabián Sambueza",
+        "value": 2,
+        "url": null,
+        "contestantName": "Atlético Bucaramanga",
+        "statName": "Asistencias",
+        "optaId": 2669
+    },
+    {
+        "position": 14,
+        "appearances": 8,
+        "name": "Darwin Machís",
+        "value": 2,
+        "url": null,
+        "contestantName": "América de Cali",
+        "statName": "Asistencias",
+        "optaId": 2288
+    },
+    {
+        "position": 14,
+        "appearances": 9,
+        "name": "Cristian Álvarez",
+        "value": 2,
+        "url": null,
+        "contestantName": "Jaguares de Córdoba",
+        "statName": "Asistencias",
+        "optaId": 7683
+    }
+]

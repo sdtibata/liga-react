@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "Millonarios F.C.",
+    "info": {
+      "city": "Bogotá, D.C.",
+      "founded": "18 de junio de 1946",
+      "stadium": "Nemesio Camacho El Campín",
+      "president": "Enrique Camacho Matamoros",
+      "last_title": "Superliga 2024"
+    },
+    "ranking": {
+      "position": "5°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/millosfcoficial",
+      "instagram": "https://www.instagram.com/millosfcoficial",
+      "x": "https://x.com/MillosFCoficial"
+    },
+    "links": {
+      "store": "https://tiendamillonarios.com.co/",
+      "tickets": "https://www.entradasmillonarios.com/"
+    }
+  }
+}

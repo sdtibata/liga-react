@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "América de Cali",
+    "info": {
+      "city": "Cali",
+      "founded": "13 de febrero de 1927",
+      "stadium": "Estadio Olímpico Pascual Guerrero",
+      "president": "Marcela Gómez",
+      "last_title": "Liga BetPlay 2020"
+    },
+    "ranking": {
+      "position": "6°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/Americadecalisad?locale=es_LA",
+      "instagram": "https://www.instagram.com/americadecali/",
+      "x": "https://x.com/AmericadeCali"
+    },
+    "links": {
+      "store": "https://www.americadecali.com/pages/home-tienda",
+      "tickets": "https://www.tuboleta.com/es/taxonomy/term/14148/america-de-cali-0"
+    }
+  }
+}

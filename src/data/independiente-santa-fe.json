@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "Independiente Santa Fe",
+    "info": {
+      "city": "Bogotá",
+      "founded": "28 de febrero de 1941",
+      "stadium": "Nemesio Camacho El Campín",
+      "president": "Eduardo Méndez",
+      "last_title": "Superliga BetPlay 2026"
+    },
+    "ranking": {
+      "position": "15°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/independiente.santafe",
+      "instagram": "https://www.instagram.com/santafe_oficial/?hl=es",
+      "x": "https://x.com/SantaFe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    "links": {
+      "store": "https://casacardenal.com/",
+      "tickets": "https://web.tuboleta.com/images/Eventos/independiente-santa-fe/home.html"
+    }
+  }
+}

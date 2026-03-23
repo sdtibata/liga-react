@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "Atlético Nacional",
+    "info": {
+      "city": "Medellín",
+      "founded": "30 de abril de 1947",
+      "stadium": "Atanasio Girardot",
+      "president": "Sebastián Arango",
+      "last_title": "Liga Dimayor 2024-2"
+    },
+    "ranking": {
+      "position": "1°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/nacionaloficial/",
+      "instagram": "https://www.instagram.com/nacionaloficial/",
+      "x": "https://x.com/nacionaloficial/"
+    },
+    "links": {
+      "store": "https://tiendaverde.com.co/es/",
+      "tickets": "https://fanki.co/atletico_nacional"
+    }
+  }
+}

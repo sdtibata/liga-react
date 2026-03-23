@@ -1,0 +1,25 @@
+{
+  "team": {
+    "name": "Once Caldas",
+    "info": {
+      "city": "Manizales",
+      "founded": "16 de abril de 1948",
+      "stadium": "Palogrande",
+      "president": "Daniel Jaramillo",
+      "last_title": "Liga BetPlay 2010 - II"
+    },
+    "ranking": {
+      "position": "3°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/oncecaldasoficial/?locale=es_LA",
+      "instagram": "https://www.instagram.com/oncecaldasoficial/?hl=es",
+      "x": "https://x.com/oncecaldas?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+    },
+    "links": {
+      "store": "https://www.tiendaoncecaldas.com/",
+      "tickets": "https://www.oncecaldas.com.co/boleteria"
+    }
+  }
+}

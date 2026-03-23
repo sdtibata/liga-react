@@ -1,0 +1,24 @@
+{
+  "team": {
+    "name": "Atlético Bucaramanga",
+    "info": {
+      "city": "Bucaramanga",
+      "founded": "11 de mayo de 1949",
+      "stadium": "Américo Montanini",
+      "president": "Óscar Álvarez Júnior",
+      "last_title": "Liga Dimayor 2024-I"
+    },
+    "ranking": {
+      "position": "7°",
+      "competition": "Apertura / Liga Dimayor / 2026"
+    },
+    "social": {
+      "facebook": "https://www.facebook.com/AtleticoBucaramangaOficial",
+      "instagram": "https://www.instagram.com/bucaramangaoficial/",
+      "x": "https://x.com/ABucaramanga"
+    },
+    "links": {
+      "tickets": "https://www.atleticobucaramanga.com.co/boletería"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+[
+    {
+        "position": 1,
+        "appearances": 13,
+        "name": "Joan Parra",
+        "value": 42,
+        "url": null,
+        "contestantName": "Once Caldas",
+        "statName": "Atajadas",
+        "optaId": 2286
+    },
+    {
+        "position": 2,
+        "appearances": 13,
+        "name": "Wuilker Fariñez",
+        "value": 40,
+        "url": null,
+        "contestantName": "Inter Bogotá",
+        "statName": "Atajadas",
+        "optaId": 2679
+    },
+    {
+        "position": 3,
+        "appearances": 11,
+        "name": "Diego Martínez",
+        "value": 36,
+        "url": null,
+        "contestantName": "Jaguares de Córdoba",
+        "statName": "Atajadas",
+        "optaId": 7683
+    },
+    {
+        "position": 4,
+        "appearances": 10,
+        "name": "Iván Arboleda",
+        "value": 35,
+        "url": null,
+        "contestantName": "Águilas Doradas",
+        "statName": "Atajadas",
+        "optaId": 7081
+    },
+    {
+        "position": 4,
+        "appearances": 12,
+        "name": "Diego Novoa",
+        "value": 35,
+        "url": null,
+        "contestantName": "Millonarios",
+        "statName": "Atajadas",
+        "optaId": 2680
+    },
+    {
+        "position": 6,
+        "appearances": 7,
+        "name": "Darío Denis",
+        "value": 34,
+        "url": null,
+        "contestantName": "Boyacá Chicó",
+        "statName": "Atajadas",
+        "optaId": 2671
+    },
+    {
+        "position": 6,
+        "appearances": 11,
+        "name": "Miguel Ortega",
+        "value": 34,
+        "url": null,
+        "contestantName": "Llaneros",
+        "statName": "Atajadas",
+        "optaId": 7684
+    },
+    {
+        "position": 8,
+        "appearances": 13,
+        "name": "Pedro Gallese",
+        "value": 32,
+        "url": null,
+        "contestantName": "Deportivo Cali",
+        "statName": "Atajadas",
+        "optaId": 2475
+    },
+    {
+        "position": 9,
+        "appearances": 11,
+        "name": "Mauro Silveira",
+        "value": 31,
+        "url": null,
+        "contestantName": "Junior",
+        "statName": "Atajadas",
+        "optaId": 2678
+    },
+    {
+        "position": 10,
+        "appearances": 11,
+        "name": "Andrés Mosquera",
+        "value": 28,
+        "url": null,
+        "contestantName": "Independiente Santa Fe",
+        "statName": "Atajadas",
+        "optaId": 2681
+    },
+    {
+        "position": 11,
+        "appearances": 10,
+        "name": "Miguel Silva",
+        "value": 27,
+        "url": null,
+        "contestantName": "Fortaleza",
+        "statName": "Atajadas",
+        "optaId": 7682
+    },
+    {
+        "position": 12,
+        "appearances": 6,
+        "name": "Juan Ramírez",
+        "value": 24,
+        "url": null,
+        "contestantName": "Cúcuta Deportivo",
+        "statName": "Atajadas",
+        "optaId": 2672
+    },
+    {
+        "position": 12,
+        "appearances": 7,
+        "name": "Federico Abadía",
+        "value": 24,
+        "url": null,
+        "contestantName": "Cúcuta Deportivo",
+        "statName": "Atajadas",
+        "optaId": 2672
+    },
+    {
+        "position": 12,
+        "appearances": 8,
+        "name": "Geovanni Banguera",
+        "value": 24,
+        "url": null,
+        "contestantName": "Deportivo Pasto",
+        "statName": "Atajadas",
+        "optaId": 2287
+    },
+    {
+        "position": 15,
+        "appearances": 8,
+        "name": "Jorge Martínez",
+        "value": 23,
+        "url": null,
+        "contestantName": "Deportivo Pereira",
+        "statName": "Atajadas",
+        "optaId": 2675
+    },
+    {
+        "position": 16,
+        "appearances": 6,
+        "name": "Johan Wallens",
+        "value": 21,
+        "url": null,
+        "contestantName": "Alianza",
+        "statName": "Atajadas",
+        "optaId": 7585
+    },
+    {
+        "position": 16,
+        "appearances": 9,
+        "name": "Aldair Quintana",
+        "value": 21,
+        "url": null,
+        "contestantName": "Atlético Bucaramanga",
+        "statName": "Atajadas",
+        "optaId": 2669
+    },
+    {
+        "position": 18,
+        "appearances": 8,
+        "name": "Alvino Volpi Neto",
+        "value": 20,
+        "url": null,
+        "contestantName": "Deportes Tolima",
+        "statName": "Atajadas",
+        "optaId": 2674
+    },
+    {
+        "position": 19,
+        "appearances": 5,
+        "name": "Jorge Soto",
+        "value": 18,
+        "url": null,
+        "contestantName": "América de Cali",
+        "statName": "Atajadas",
+        "optaId": 2288
+    },
+    {
+        "position": 20,
+        "appearances": 4,
+        "name": "Yimy Gómez",
+        "value": 17,
+        "url": null,
+        "contestantName": "Deportivo Pereira",
+        "statName": "Atajadas",
+        "optaId": 2675
+    }
+]
