@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import posicionesData from '../data/posiciones.json'
 
 interface Ranking {
   rank: number
@@ -10,14 +9,27 @@ interface Ranking {
 
 function Home() {
   const [ranking, setRanking] = useState<Ranking[]>([])
+  const [title, setTitle] = useState('')
 
   useEffect(() => {
-    setRanking(posicionesData.standings[0].ranking)
+    const fetchData = async () => {
+      try {
+        const res = await fetch('https://raw.githubusercontent.com/sdtibata/dataliga/refs/heads/main/posiciones.json')
+        const data = await res.json()
+
+        setRanking(data.standings[0].ranking)
+        setTitle(data.standings[0].competitionName)
+      } catch (error) {
+        console.error('Error cargando datos:', error)
+      }
+    }
+
+    fetchData()
   }, [])
 
   return (
     <div className="tabla-container">
-      <h2>{posicionesData.standings[0].competitionName} — {posicionesData.standings[0].name}</h2>
+      <h2>{title}</h2>
       <table className="tabla-posiciones">
         <thead>
           <tr>
