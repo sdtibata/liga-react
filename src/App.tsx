@@ -7,6 +7,7 @@ import Usuario from './usuario'
 import Home from './home'
 import Favoritos from './favoritos'
 import Equipo from './equipo';
+import { EquiposContext, equiposMap } from "./EquiposContext";
 
 import './App.css'
 
@@ -14,6 +15,7 @@ function App() {
 
   return (
     <>
+    <EquiposContext.Provider value={equiposMap}>
     <Router>
       <nav className="c-menu">
         <Link to="/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDy9mBtyJWUPLRobv__N2OwHYdiKAWarKroQ&s" /><p>Home</p></Link>
@@ -32,6 +34,7 @@ function App() {
         <Route path="/equipo/:equipo" element={<Equipo /> } />
       </Routes>
     </Router>
+    </EquiposContext.Provider>
     </>
   )
 }
