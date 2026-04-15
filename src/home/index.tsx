@@ -32,7 +32,7 @@ function Home() {
   const [filtro, setFiltro] = useState<FiltroTipo>('posiciones')
   const [estadisticas, setEstadisticas] = useState<Estadistica[]>([])
 
-  const filtros: FiltroTipo[] = ['posiciones', 'goleador', 'asistencias', 'amarillas', 'atajadas']
+  const filtros: FiltroTipo[] = ['posiciones', 'goleador', 'asistencias', 'amarillas', 'atajadas'];
 
   const [busqueda, setBusqueda] = useState('')
 
